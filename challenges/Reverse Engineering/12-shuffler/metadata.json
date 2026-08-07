@@ -1,0 +1,32 @@
+{
+  "id": "c9edaec4-facf-4cd3-8901-622167a53e30",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Shuffler",
+  "points": 80,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 451,
+  "isCompletedByUser": false,
+  "index": 12,
+  "description": "Some encryption and some shuffles,How will you decrypt this?",
+  "author": "SAFCSP",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 80,
+  "currentSubmissionPoints": 80,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{bc22719f0816578efad8d19496531512}",
+  "workStatus": "✅ solved"
+}

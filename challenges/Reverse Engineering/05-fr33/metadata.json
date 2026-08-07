@@ -1,0 +1,32 @@
+{
+  "id": "13f7acd8-fd6f-4e95-ae5c-6d79552e3bb8",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Fr33",
+  "points": 270,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 217,
+  "isCompletedByUser": false,
+  "index": 5,
+  "description": "Forget the serialkey for my user \"DYSTOPIA\" , can you help me to crack the application? Flag format: FlagY{DYSTOPIA serialkey}",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 270,
+  "currentSubmissionPoints": 270,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{56de424f-b02d562e-d77cd19b-3fd357e6}",
+  "workStatus": "✅ solved"
+}

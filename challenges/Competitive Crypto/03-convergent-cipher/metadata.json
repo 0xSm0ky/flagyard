@@ -1,0 +1,30 @@
+{
+  "id": "c2f32c57-453a-4f49-8e6f-d467084c24b0",
+  "labId": 8,
+  "lab": "Competitive Crypto",
+  "name": "Convergent Cipher",
+  "points": 200,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 167,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "This block cipher is different to anything you've seen before.\n",
+  "author": "Joseph",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 200,
+  "currentSubmissionPoints": 200,
+  "files": 1
+}

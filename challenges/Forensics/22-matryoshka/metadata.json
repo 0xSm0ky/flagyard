@@ -1,0 +1,29 @@
+{
+  "id": "16f6e82a-ca4f-489b-819e-23f9da7bd68c",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Matryoshka",
+  "points": 150,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 553,
+  "isCompletedByUser": false,
+  "index": 22,
+  "description": "I am an old game; made of wood and stacked you need to learn some languages to understand me.\n\nFlag format: FlagY{}",
+  "author": "SAFCSP",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 150,
+  "currentSubmissionPoints": 150,
+  "files": 1
+}

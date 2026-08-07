@@ -1,0 +1,32 @@
+{
+  "id": "b445d8ef-5caf-4078-a89a-abc0517c5db9",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Captcha Me If You Can",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 216,
+  "isCompletedByUser": false,
+  "index": 9,
+  "files": 1,
+  "description": "In this challenge, investigators are provided with forensic access to a Windows workstation used by an employee. The user reportedly fell victim to a phishing campaign that used a fake CAPTCHA prompt to trick them into copying and executing a malicious command. Initial indicators point to interaction with a suspicious website and unusual activity shortly afterward. Your goal is to trace the execution chain, identify what was run, and recover the flag",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "solved": true,
+  "flag": "FlagY{09c307383d4aed505856a956476a6536}",
+  "workStatus": "✅ solved"
+}

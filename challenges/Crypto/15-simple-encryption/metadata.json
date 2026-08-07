@@ -1,0 +1,34 @@
+{
+  "id": "f5c04322-cc46-474a-ae96-8c162318d243",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "Simple Encryption",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 473,
+  "isCompletedByUser": false,
+  "index": 15,
+  "description": "Just a simple encryption algorithm based on basic arithmetic operations.",
+  "author": "Joseph",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{e4sy_3nc_3asy_d3c_a6cebdf01bf8a8feb61f}",
+  "workStatus": "✅ solved"
+}

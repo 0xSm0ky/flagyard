@@ -1,0 +1,32 @@
+{
+  "id": "f9e6ebae-b43d-4af2-9f62-d3827de3a873",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Compressed Confession",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 355,
+  "isCompletedByUser": false,
+  "index": 14,
+  "description": "You are provided with a forensic triage image containing only the user-level registry hives NTUSER.DAT and UsrClass.dat. Your objective is to identify the archive file that the intruder created for staging exfiltration data, and obtain the hidden flag.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{c002ae7b19e980cf07debb55c8d57450}",
+  "workStatus": "✅ solved"
+}

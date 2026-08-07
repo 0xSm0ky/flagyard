@@ -1,0 +1,33 @@
+{
+  "id": "0477aaea-49cb-4ff8-82ba-2068830e8967",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "tables",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 343,
+  "isCompletedByUser": false,
+  "index": 19,
+  "description": "Where is my flag?",
+  "author": "hgarrereyn",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [
+    "reversing"
+  ],
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{vt4bl3s_and_vtabl3s_and_m0re_vt3bles}",
+  "workStatus": "✅ solved"
+}

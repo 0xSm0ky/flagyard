@@ -1,0 +1,30 @@
+{
+  "id": "3d9aa313-437c-4b38-a84e-f41116d4efda",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Forensics] [Week2] BlackIndex",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 29,
+  "isCompletedByUser": false,
+  "index": 4,
+  "description": "A critical system was recently compromised, and the attacker wiped key forensic evidence. The Windows Event Logs were cleared, leaving little trace of what happened.Your mission is to know what happend and extract the flag hidden inside.",
+  "author": "Flagyard",
+  "url": "https://files.flagyard.com/public/uploads/BlackIndex.zip",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "e0676140-7d9e-4cc2-992f-6858fe644df5",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "SlowScript",
+  "points": 90,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 371,
+  "isCompletedByUser": false,
+  "index": 13,
+  "description": "Too slow i don't know why, can you help me to speed the decryption?",
+  "author": "SAFCSP",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 90,
+  "currentSubmissionPoints": 90,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{6233fb2f5573ade1d34aba3e6076017d}",
+  "workStatus": "✅ solved"
+}

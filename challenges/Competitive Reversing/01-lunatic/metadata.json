@@ -1,0 +1,35 @@
+{
+  "id": "eae05fbb-095e-4e27-917b-7bf6b137fd77",
+  "labId": 6,
+  "lab": "Competitive Reversing",
+  "name": "lunatic",
+  "points": 300,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 78,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "Am I going insane? (lua base `c33b1728aeb7dfeec4013562660e07d32697aa6b`)",
+  "author": "hgarrereyn",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [
+    "reverse",
+    "lua"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 300,
+  "currentSubmissionPoints": 300,
+  "files": 2,
+  "solved": false,
+  "flag": "",
+  "workStatus": "🟡 deferred (needs interpreter bug, description hash confirmed a red herring)"
+}

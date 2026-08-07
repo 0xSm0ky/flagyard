@@ -1,0 +1,30 @@
+{
+  "id": "b12d5d2b-8797-466b-bf67-4f1ccebdbc9b",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Forensics] [Week1] Ransom",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 21,
+  "isCompletedByUser": false,
+  "index": 15,
+  "description": "A client experienced a ransomware attack and is now working to contain the breach while determining how the threat actor infiltrated their servers and what actions were taken afterward. Are you ready to take on this challenge?",
+  "author": "Flagyard",
+  "url": "https://files.flagyard.com/public/uploads/Ransom.zip",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

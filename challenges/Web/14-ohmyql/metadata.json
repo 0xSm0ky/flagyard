@@ -1,0 +1,32 @@
+{
+  "id": "5ab46a10-3c84-4d4f-a7a3-85c54ba2ec9b",
+  "labId": 2,
+  "lab": "Web",
+  "name": "OhMyQL",
+  "points": 290,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 304,
+  "isCompletedByUser": false,
+  "index": 14,
+  "description": "Are you aware of modern web technologies ?",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 290,
+  "currentSubmissionPoints": 290,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{1b930af63fa7a7f4ee04e58cb7584bde}",
+  "workStatus": "✅ solved"
+}

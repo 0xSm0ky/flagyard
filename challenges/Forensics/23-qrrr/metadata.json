@@ -1,0 +1,32 @@
+{
+  "id": "eb9dac10-042a-4c08-955f-6ee2d8908082",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "QRRR!",
+  "points": 50,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 1714,
+  "isCompletedByUser": false,
+  "index": 23,
+  "description": "Scan it, get it.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 50,
+  "currentSubmissionPoints": 50,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{Congrats_u_got_ittt}",
+  "workStatus": "✅ solved"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a6f79e04-c30d-441d-8e6d-b3fce9044174",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Crypto] [Week2] BabyLLL",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 9,
+  "isCompletedByUser": false,
+  "index": 25,
+  "description": "This is not LLL challenge!",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "df8fd66c-1e75-446b-8463-976b62d48043",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "celestial order",
+  "points": 200,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 115,
+  "isCompletedByUser": false,
+  "index": 20,
+  "description": "I slightly modified an [ed25519 implementation](https://github.com/pyca/ed25519) - can you forge a signature? Be sure to diff the code.",
+  "author": "defund",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto",
+    "ed25519"
+  ],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 200,
+  "currentSubmissionPoints": 200,
+  "files": 2
+}

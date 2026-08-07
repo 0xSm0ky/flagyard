@@ -1,0 +1,29 @@
+{
+  "id": "1e948631-5c4e-4ed9-9a1b-5316f01a179c",
+  "labId": 2,
+  "lab": "Web",
+  "name": "FsaaS",
+  "points": 110,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 139,
+  "isCompletedByUser": false,
+  "index": 4,
+  "description": "File sharing as a Service.",
+  "author": "Flagyard",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 110,
+  "currentSubmissionPoints": 110,
+  "files": 0
+}

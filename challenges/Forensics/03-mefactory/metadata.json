@@ -1,0 +1,29 @@
+{
+  "id": "b7208a95-3615-419a-9361-4390d635033b",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "MEfactory",
+  "points": 300,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 71,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "A decommissioned embedded device came in for analysis. The SPI flash was dumped before the unit was wiped. Engineering says there was a factory provisioning secret loaded during manufacturing — but nobody kept the paperwork. The firmware team swears it's in there somewhere.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 300,
+  "currentSubmissionPoints": 300,
+  "files": 1
+}

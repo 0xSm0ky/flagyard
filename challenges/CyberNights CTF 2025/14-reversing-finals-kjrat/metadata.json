@@ -1,0 +1,29 @@
+{
+  "id": "e0f2b126-3556-4d94-b730-019e8be7af53",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Reversing] [Finals] kjrat",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 12,
+  "isCompletedByUser": false,
+  "index": 14,
+  "description": "Something was leaked, can you help me to identify what was leaked? \n\nFiles password: infected",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f395bde2-49c2-4948-bd19-8d4f540d8b2e",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[WEB] Kermit The Square",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 81,
+  "isCompletedByUser": false,
+  "index": 5,
+  "description": "it's not the server, it's you.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

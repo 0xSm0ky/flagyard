@@ -1,0 +1,32 @@
+{
+  "id": "c94e6805-a5ee-438f-8a06-fc2eb5dcb583",
+  "labId": 11,
+  "lab": "Hardware",
+  "name": "Power of Statistics",
+  "points": 300,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 179,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "Once upon a time people thought that a crypto algorithm is secure if the math is secured. But little did they know that we also have physics!!! Can you break this crypto device and retrieve the encrypted flag?",
+  "author": "blackfish",
+  "category": {
+    "id": 8,
+    "name": "Hardware",
+    "nameAr": "Hardware",
+    "nameEn": "Hardware",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-hardware.svg"
+  },
+  "tags": [
+    "hardware",
+    "reversing"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 300,
+  "currentSubmissionPoints": 300,
+  "files": 1
+}

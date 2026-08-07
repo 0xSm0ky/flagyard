@@ -1,0 +1,30 @@
+{
+  "id": "07a85df3-3b9a-470e-935b-8e91a1a4bdf9",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Armor",
+  "points": 180,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 78,
+  "isCompletedByUser": false,
+  "index": 9,
+  "description": "try to break the armor",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 180,
+  "currentSubmissionPoints": 180,
+  "files": 1
+}

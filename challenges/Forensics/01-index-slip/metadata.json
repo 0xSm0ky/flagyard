@@ -1,0 +1,32 @@
+{
+  "id": "ea984138-73f1-47f8-b7db-14b2d287f49a",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Index Slip",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 74,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "I remember opening a file containing all of my important stuff, now I don't even remember its name.\n\nFlag format: FlagY{md5(filename_without_extension)}",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": true,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 0,
+  "solved": false,
+  "flag": "",
+  "workStatus": "🟡 riddle, no file — index.dat/plum.sqlite both rejected, needs a better theory"
+}

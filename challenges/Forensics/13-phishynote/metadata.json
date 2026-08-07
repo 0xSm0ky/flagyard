@@ -1,0 +1,32 @@
+{
+  "id": "ee8c1558-cb43-4256-b27c-371a79c91357",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "PhishyNote",
+  "points": 280,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 165,
+  "isCompletedByUser": false,
+  "index": 13,
+  "description": "Our company recently fell victim to a phishing campaign, and we’ve imaged the affected employee’s Windows profile. So your mission is to analyze the evidence, reconstruct the attack chain, and tell us exactly what happened.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 280,
+  "currentSubmissionPoints": 280,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{7e8137f6e03af9fcd18d0706cb70d7c0}",
+  "workStatus": "✅ solved"
+}

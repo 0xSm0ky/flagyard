@@ -1,0 +1,29 @@
+{
+  "id": "0d80f36e-ecb9-404e-9a2c-2ebf1b524486",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Forensics] [Week2] CatchMeIfYou",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 21,
+  "isCompletedByUser": false,
+  "index": 8,
+  "description": "The challenge involves understanding and detecting persistence techniques used by attackers to maintain access on a compromised system. It highlights the importance of inspecting system files and services for unauthorized modifications.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

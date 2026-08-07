@@ -1,0 +1,32 @@
+{
+  "id": "c8106083-5dbe-43f2-b346-89ca56158fa8",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "M47H",
+  "points": 80,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 349,
+  "isCompletedByUser": false,
+  "index": 14,
+  "description": "They say that c/c++ plus is old so it was the time to move to something new,But is it easier to reverse ?",
+  "author": "SAFCSP",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 80,
+  "currentSubmissionPoints": 80,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{685fdf10231cc1013ca0d19f66a56865}",
+  "workStatus": "✅ solved"
+}

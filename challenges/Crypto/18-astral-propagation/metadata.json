@@ -1,0 +1,32 @@
+{
+  "id": "277d169f-16cb-48e1-872d-13571623b73d",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "astral propagation",
+  "points": 200,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 160,
+  "isCompletedByUser": false,
+  "index": 18,
+  "description": "CBC mode is vulnerable to padding oracle attacks, but what about PCBC?",
+  "author": "defund",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto"
+  ],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 200,
+  "currentSubmissionPoints": 200,
+  "files": 1
+}

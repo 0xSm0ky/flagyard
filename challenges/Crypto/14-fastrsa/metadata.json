@@ -1,0 +1,33 @@
+{
+  "id": "a2d8bc88-56a6-4016-9ebe-210d5b5f859c",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "FastRsa",
+  "points": 90,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 224,
+  "isCompletedByUser": false,
+  "index": 14,
+  "description": "Are you fast enough to solve?",
+  "author": "SAFCSP",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 90,
+  "currentSubmissionPoints": 90,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{b8f828b11e9150538b8fecb46e0e9cc1}",
+  "workStatus": "✅ solved"
+}

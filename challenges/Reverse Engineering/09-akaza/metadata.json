@@ -1,0 +1,29 @@
+{
+  "id": "4f1c4d2d-4906-4af6-8ffc-28e23eefc669",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Akaza",
+  "points": 270,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 158,
+  "isCompletedByUser": false,
+  "index": 9,
+  "description": "In this world, the strong devour the weak. Only by rising above your limitations can we truly become powerful.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 270,
+  "currentSubmissionPoints": 270,
+  "files": 1
+}

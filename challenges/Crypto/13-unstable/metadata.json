@@ -1,0 +1,30 @@
+{
+  "id": "7a509892-d6f5-4cd3-9e9d-618214d61013",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "Unstable",
+  "points": 140,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 149,
+  "isCompletedByUser": false,
+  "index": 13,
+  "description": "Unstable, unbreakable cipher.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 140,
+  "currentSubmissionPoints": 140,
+  "files": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "8f7b2333-fa0b-4a9f-8ddf-1491fde3c8ac",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "phone book",
+  "points": 150,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 66,
+  "isCompletedByUser": false,
+  "index": 8,
+  "description": "The force of memory",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 150,
+  "currentSubmissionPoints": 150,
+  "files": 1
+}

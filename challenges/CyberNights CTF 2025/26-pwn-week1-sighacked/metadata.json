@@ -1,0 +1,30 @@
+{
+  "id": "2c4a6172-f37c-4d8f-9d5e-d452ee42b5b8",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[PWN] [Week1] SigHacked",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 22,
+  "isCompletedByUser": false,
+  "index": 26,
+  "description": "Manage student records in memory, but can you find a way to break the system?",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

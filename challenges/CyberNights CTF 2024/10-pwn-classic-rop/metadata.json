@@ -1,0 +1,30 @@
+{
+  "id": "b4c8340f-1cae-40b7-a2ff-c82523dff549",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[PWN] Classic rop",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 34,
+  "isCompletedByUser": false,
+  "index": 10,
+  "description": "you have one shot can you make it.",
+  "author": "0x3z",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

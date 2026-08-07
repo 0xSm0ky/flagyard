@@ -1,0 +1,32 @@
+{
+  "id": "3ef058b5-ab9b-4fda-9413-bc854124ec07",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Sole of ROP",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 202,
+  "isCompletedByUser": false,
+  "index": 17,
+  "description": "Ever tried to solve a Rubik's Cube blindfolded in zero gravity? it's chaotic, disorienting, and utterly thrilling. Swap registers, flip bits, and defy gravity in this cosmic dance of shellcode. May the SIGs be ever in your favor!",
+  "author": "schizo",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [
+    "pwn"
+  ],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a1220365-ecb6-4c31-ba43-faab9e5cf59a",
+  "labId": 2,
+  "lab": "Web",
+  "name": "NOSJ",
+  "points": 400,
+  "difficulty": "insane",
+  "status": "active",
+  "numberOfSolutions": 95,
+  "isCompletedByUser": false,
+  "index": 13,
+  "description": "Welcome to our E-commerce website, I wish you enjoy the journey. \n- First Man Standing",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 400,
+  "currentSubmissionPoints": 400,
+  "files": 0
+}

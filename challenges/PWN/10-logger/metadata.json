@@ -1,0 +1,30 @@
+{
+  "id": "8370109e-5518-432e-803b-38163a42e2c7",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "logger",
+  "points": 390,
+  "difficulty": "insane",
+  "status": "active",
+  "numberOfSolutions": 92,
+  "isCompletedByUser": false,
+  "index": 10,
+  "description": "Simple app to log your data",
+  "author": "SAFCSP",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 390,
+  "currentSubmissionPoints": 390,
+  "files": 1
+}

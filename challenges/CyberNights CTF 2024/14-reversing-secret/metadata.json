@@ -1,0 +1,32 @@
+{
+  "id": "dd80d31e-8588-444b-b464-c7148bb38391",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[Reversing] Secret",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 30,
+  "isCompletedByUser": false,
+  "index": 14,
+  "description": "Crack the secret and get the flag!",
+  "author": "0xB9",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{bfea78a7bc43063c05bd33acae342570}",
+  "workStatus": "✅ solved"
+}

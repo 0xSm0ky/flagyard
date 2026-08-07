@@ -1,0 +1,32 @@
+{
+  "id": "4636d53f-0c4d-47f7-88d4-07c39999b7cf",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "B1n.R@ns0m",
+  "points": 220,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 239,
+  "isCompletedByUser": false,
+  "index": 15,
+  "description": "Ransomwares are very dangerous, but is this one dangerous?",
+  "author": "SAFCSP",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 220,
+  "currentSubmissionPoints": 220,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{649ceac01c1beeaa36d1b6546b4e1a57}",
+  "workStatus": "✅ solved"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9875dcdd-4a20-486a-8076-66001351e7e0",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "constrained",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 490,
+  "isCompletedByUser": false,
+  "index": 18,
+  "description": "So many checks....",
+  "author": "hgarrereyn",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [
+    "reverse",
+    "pyc"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{w0w_I_hop3_You_used_z3_or_smth_01830193972983}",
+  "workStatus": "✅ solved"
+}

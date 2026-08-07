@@ -1,0 +1,30 @@
+{
+  "id": "281549a2-2e6f-45d1-be4a-1632c7ce8190",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "RegReflector",
+  "points": 270,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 110,
+  "isCompletedByUser": false,
+  "index": 11,
+  "description": "An employee inadvertently downloaded a file that impersonated the official Google Chrome installer. Shortly afterward, the workstation began to exhibit significant performance degradation and rapid-fire popup windows. We have gathered relevant logs and system artifacts and would like your analysis to determine the root cause, impact, and next steps.",
+  "author": "Flagyard",
+  "url": "https://files.flagyard.com/public/uploads/RegReflector.zip",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 270,
+  "currentSubmissionPoints": 270,
+  "files": 0
+}

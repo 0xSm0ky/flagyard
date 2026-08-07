@@ -1,0 +1,29 @@
+{
+  "id": "1ae0534c-8975-46f5-a9c5-c67ac4011641",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Web] [Finals] Stealer",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 15,
+  "isCompletedByUser": false,
+  "index": 11,
+  "description": "Welcome to the Bookstore! We've recently implemented a new feature that allows sellers to add detailed descriptions to their books. Our admin bot regularly checks these descriptions for any inappropriate content or the out of stock items.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

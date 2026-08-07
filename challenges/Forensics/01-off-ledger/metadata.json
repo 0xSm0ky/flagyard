@@ -1,0 +1,29 @@
+{
+  "id": "78b9049a-e694-433a-bd0e-2beb63aef74b",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Off-Ledger",
+  "points": 240,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 33,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "The gateway was bleeding. Find what walked out.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 240,
+  "currentSubmissionPoints": 240,
+  "files": 1
+}

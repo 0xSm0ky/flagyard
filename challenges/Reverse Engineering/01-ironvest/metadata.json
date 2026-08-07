@@ -1,0 +1,32 @@
+{
+  "id": "cd4e1693-ed88-4cc4-98c7-169e7522afa8",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "IronVest",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 317,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "I believe we've built a strong defensive design—no one should be able to jump to the hidden places.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{7b4e3a2c1d8f9e0a5b6c7d8e9f0a1b2c}",
+  "workStatus": "✅ solved"
+}

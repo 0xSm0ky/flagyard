@@ -1,0 +1,29 @@
+{
+  "id": "d07c5880-03e6-4eb0-8d65-a12b865edca2",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Bl4d3",
+  "points": 380,
+  "difficulty": "insane",
+  "status": "active",
+  "numberOfSolutions": 215,
+  "isCompletedByUser": false,
+  "index": 8,
+  "description": "There are worse things out tonight than vampires.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 380,
+  "currentSubmissionPoints": 380,
+  "files": 1
+}

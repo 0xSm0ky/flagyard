@@ -1,0 +1,29 @@
+{
+  "id": "6ec1c105-78d2-4020-81e5-3789167044db",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Giyu",
+  "points": 280,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 135,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "I don't have a name to tell demons.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 280,
+  "currentSubmissionPoints": 280,
+  "files": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1775ebb0-00a0-4c93-8450-7f7d4b13d240",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Lost Flag",
+  "points": 50,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 654,
+  "isCompletedByUser": false,
+  "index": 17,
+  "description": "The flag got lost, can you retrieve it?",
+  "author": "schizo",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [
+    "reverse"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 50,
+  "currentSubmissionPoints": 50,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{R3vers3_101_Ch4ll3ng3}",
+  "workStatus": "✅ solved"
+}

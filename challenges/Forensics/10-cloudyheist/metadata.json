@@ -1,0 +1,29 @@
+{
+  "id": "400bc9dd-82f2-4e3a-bf15-66bea9a0996a",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "CloudyHeist",
+  "points": 160,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 145,
+  "isCompletedByUser": false,
+  "index": 10,
+  "description": "One of our clients—a healthcare organization subject to HIPAA—has experienced a cyber-security incident. They need to determine whether any data were exfiltrated and, if so, exactly which data were compromised.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 160,
+  "currentSubmissionPoints": 160,
+  "files": 0
+}

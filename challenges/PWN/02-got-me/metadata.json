@@ -1,0 +1,30 @@
+{
+  "id": "b8152f55-9657-4cf0-85c6-b032ea2c7a5c",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "GOT me",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 140,
+  "isCompletedByUser": false,
+  "index": 2,
+  "description": "A talkative program with a trusting nature — can you earn its trust and find a way to win?",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1
+}

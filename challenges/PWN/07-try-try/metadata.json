@@ -1,0 +1,30 @@
+{
+  "id": "2794c6f2-e39e-4528-b408-2016f28586b7",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Try&Try",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 123,
+  "isCompletedByUser": false,
+  "index": 7,
+  "description": "try harder with force.",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1
+}

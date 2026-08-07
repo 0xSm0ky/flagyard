@@ -1,0 +1,35 @@
+{
+  "id": "be2c08c0-9639-4daa-a691-034dac8e0725",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "RSA-Basics",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 462,
+  "isCompletedByUser": false,
+  "index": 19,
+  "description": "Going over some of the RSA basics",
+  "author": "rkm0950",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto"
+  ],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{Studying_RSA_Basics!}",
+  "workStatus": "✅ solved"
+}

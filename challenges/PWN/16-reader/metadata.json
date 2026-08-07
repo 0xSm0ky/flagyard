@@ -1,0 +1,30 @@
+{
+  "id": "ec874161-e57b-4403-8ace-de20790c4b1f",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Reader",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 177,
+  "isCompletedByUser": false,
+  "index": 16,
+  "description": "try to read the flag.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1
+}

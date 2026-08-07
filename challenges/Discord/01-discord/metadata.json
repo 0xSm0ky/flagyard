@@ -1,0 +1,32 @@
+{
+  "id": "72038df4-cc18-4363-9837-2bd494a5a968",
+  "labId": 10,
+  "lab": "Discord",
+  "name": "discord",
+  "points": 50,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 2520,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "join discord to get your flag: https://discord.gg/uZ8zQjHuqr",
+  "author": "SAFCSP",
+  "url": "https://discord.gg/uZ8zQjHuqr",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [
+    "discord server"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 50,
+  "currentSubmissionPoints": 50,
+  "files": 0
+}

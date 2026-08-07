@@ -1,0 +1,29 @@
+{
+  "id": "0c64889f-c354-45ee-9b25-9deb489e7572",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "CanYouSeeMe",
+  "points": 280,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 180,
+  "isCompletedByUser": false,
+  "index": 18,
+  "description": "You are a security analyst at a company and have received an alert regarding unauthorized access to the company’s database. It appears that an attacker exploited a vulnerability in the web application to extract sensitive credentials. Your task is to investigate the incident by analyzing the provided web logs. The attacker may have used advanced SQL injection techniques to access the database. You must reconstruct the attack, uncover the stolen data, and determine the extent of the breach. \n",
+  "author": "SAFCSP",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 280,
+  "currentSubmissionPoints": 280,
+  "files": 1
+}

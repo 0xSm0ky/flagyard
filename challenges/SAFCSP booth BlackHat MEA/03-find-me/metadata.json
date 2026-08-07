@@ -1,0 +1,34 @@
+{
+  "id": "0384f2c3-ea64-4c0f-a3cf-28644495dadf",
+  "labId": 9,
+  "lab": "SAFCSP booth BlackHat MEA",
+  "name": "Find Me",
+  "points": 50,
+  "difficulty": "easy",
+  "status": "retired",
+  "numberOfSolutions": 291,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "Find the flag.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [
+    "reverse"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 50,
+  "currentSubmissionPoints": 50,
+  "files": 1,
+  "solved": false,
+  "flag": "FlagY{ffa73de573a0b78a2b43fc541845e8c1}",
+  "workStatus": "⚪ lab retired — flag found but unsubmittable (\"Cannot submit to this challenge\")"
+}

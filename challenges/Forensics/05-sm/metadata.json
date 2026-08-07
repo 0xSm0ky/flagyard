@@ -1,0 +1,32 @@
+{
+  "id": "09db7a9d-43ce-4839-8bae-fb7c84a94b55",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "SM",
+  "points": 200,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 88,
+  "isCompletedByUser": false,
+  "index": 5,
+  "files": 1,
+  "description": "SM Company has fallen victim to a social engineering attack. The attackers used malicious Office documents to breach their systems. A memory dump from the compromised system has been provided to you to analyze it and reveal the hidden flag. But beware—this isn't your typical string search!",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 200,
+  "currentSubmissionPoints": 200,
+  "solved": true,
+  "flag": "FlagY{3b1e9a4dd62ad5fab35113ec57d7f690}",
+  "workStatus": "✅ solved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40812d10-e2c0-40b0-956e-c22c32f3e30f",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[Reversing] BackToC2",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 30,
+  "isCompletedByUser": false,
+  "index": 2,
+  "description": "Our mission is to break the malware's kill chain.",
+  "author": "schizo",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{1_C4N_8347_4NY_M41W4r3}",
+  "workStatus": "✅ solved"
+}

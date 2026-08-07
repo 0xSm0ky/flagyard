@@ -1,0 +1,32 @@
+{
+  "id": "2557aa85-3caa-4e40-9400-2f14c986545a",
+  "labId": 2,
+  "lab": "Web",
+  "name": "OhMycURL",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 482,
+  "isCompletedByUser": false,
+  "index": 18,
+  "description": "We intrdoucing OhMycURL, no more complicated fetch process :)\n\nWe talk 5000 language.\nNOTE: container have no internet access :((",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 0,
+  "solved": true,
+  "flag": "FlagY{eca5f4263a66728966a30b9f8fba8f0e}",
+  "workStatus": "✅ solved"
+}

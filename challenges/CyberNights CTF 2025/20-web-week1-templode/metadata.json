@@ -1,0 +1,29 @@
+{
+  "id": "f36343c6-a5a7-4649-821d-b50976f6c3f5",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Web] [Week1] Templode",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 69,
+  "isCompletedByUser": false,
+  "index": 20,
+  "description": "We don't trust any URL shortener, so we decided to make our own.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

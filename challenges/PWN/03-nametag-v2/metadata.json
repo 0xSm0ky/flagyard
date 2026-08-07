@@ -1,0 +1,30 @@
+{
+  "id": "1d8b9c2f-2ac2-478a-9960-606215901ec2",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "NameTag v2",
+  "points": 270,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 104,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "can u get flag now?!",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 270,
+  "currentSubmissionPoints": 270,
+  "files": 1
+}

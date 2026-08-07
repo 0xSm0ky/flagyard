@@ -1,0 +1,29 @@
+{
+  "id": "d06ee69c-4e64-4e19-a8c1-9078ecc7d86a",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "ZoomHeist",
+  "points": 170,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 73,
+  "isCompletedByUser": false,
+  "index": 7,
+  "files": 1,
+  "description": "A Zoom-themed malvertising has been observed in the wild. Unsuspecting users who click on “Download Zoom Update” banners are silently redirected to GitHub Pages-hosted sites that serve weaponized installers. You are provided with a triage image for one of the machines that is suspected to be compromised that you need to analyze.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 170,
+  "currentSubmissionPoints": 170
+}

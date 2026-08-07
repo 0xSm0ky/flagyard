@@ -1,0 +1,31 @@
+{
+  "id": "36e90db4-7079-4767-8cba-df4be8cd8bfa",
+  "labId": 6,
+  "lab": "Competitive Reversing",
+  "name": "PongPing",
+  "points": 250,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 61,
+  "isCompletedByUser": false,
+  "index": 2,
+  "description": "len(flag) = 44, Good luck",
+  "author": "VoidMercy",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [
+    "reverse"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 250,
+  "currentSubmissionPoints": 250,
+  "files": 2
+}

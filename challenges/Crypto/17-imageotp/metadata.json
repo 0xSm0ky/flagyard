@@ -1,0 +1,34 @@
+{
+  "id": "c70a0752-3c29-41cc-9234-f7acb367ce60",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "imageOTP",
+  "points": 50,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 266,
+  "isCompletedByUser": false,
+  "index": 17,
+  "description": "I used a one-time pad to encrypt two images. Can you recover them?",
+  "author": "defund",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 50,
+  "currentSubmissionPoints": 50,
+  "files": 2,
+  "solved": true,
+  "flag": "FlagY{p4tt3rn_r3c0gn1tion}",
+  "workStatus": "✅ solved"
+}

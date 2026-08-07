@@ -1,0 +1,29 @@
+{
+  "id": "4822821e-2393-446f-b20e-9258768321d5",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Roasted Vault",
+  "points": 290,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 71,
+  "isCompletedByUser": false,
+  "index": 2,
+  "description": "5 minutes is all it takes.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 290,
+  "currentSubmissionPoints": 290,
+  "files": 1
+}

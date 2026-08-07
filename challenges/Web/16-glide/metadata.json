@@ -1,0 +1,32 @@
+{
+  "id": "b6704ef6-a300-47e4-adc6-5d1e4c57e489",
+  "labId": 2,
+  "lab": "Web",
+  "name": "Glide",
+  "points": 170,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 390,
+  "isCompletedByUser": false,
+  "index": 16,
+  "description": "Ice skating? Slide!",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 170,
+  "currentSubmissionPoints": 170,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{9572d047d26797480ae73301c89c279f}",
+  "workStatus": "✅ solved"
+}

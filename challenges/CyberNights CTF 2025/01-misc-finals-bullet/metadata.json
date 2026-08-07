@@ -1,0 +1,30 @@
+{
+  "id": "382ff616-2e56-4d6d-a3dc-1993b9d94ffb",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[MISC] [Finals] Bullet",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 146,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "Bullet: Where your Python commands are like boomerangs—throw them carefully, or they'll come back to bite you!",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

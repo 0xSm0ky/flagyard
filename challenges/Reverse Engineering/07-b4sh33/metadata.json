@@ -1,0 +1,32 @@
+{
+  "id": "1e1986eb-8ba7-4c58-9b26-99a52a7ef7f8",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "B4sh33",
+  "points": 150,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 340,
+  "isCompletedByUser": false,
+  "index": 7,
+  "description": "Reading bash is always fun.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 150,
+  "currentSubmissionPoints": 150,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{b89f-f302-dd51-205f1}",
+  "workStatus": "✅ solved"
+}

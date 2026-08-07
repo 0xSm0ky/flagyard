@@ -1,0 +1,29 @@
+{
+  "id": "af13a6f8-2da6-4acf-86a8-2d9cfb64bea5",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Covid-19",
+  "points": 420,
+  "difficulty": "insane",
+  "status": "active",
+  "numberOfSolutions": 117,
+  "isCompletedByUser": false,
+  "index": 6,
+  "description": "PharmaMed Inc.'s IT department has identified unusual network activity originating from a critical research system involved in Covid-19 vaccine development. Suspicious communications suggest that sensitive data may have been exfiltrated by a sophisticated threat actor. Your task is to investigate the captured network traffic, system memory, and other artifacts to uncover the details of the breach and retrieve the exfiltrated data. The flag is hidden within the exfiltrated content..",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 420,
+  "currentSubmissionPoints": 420,
+  "files": 0
+}

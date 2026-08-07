@@ -1,0 +1,29 @@
+{
+  "id": "e3bc67ef-354e-44e0-bcfd-081c7e6638b0",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Web] [Week2] Bobby",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 38,
+  "isCompletedByUser": false,
+  "index": 18,
+  "description": "My friend is a chess enthusiast. He has a website where he can analyse his friends games.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

@@ -1,0 +1,29 @@
+{
+  "id": "b0fa7e4b-7e0d-4fd9-9d3e-8dfd81313f7d",
+  "labId": 2,
+  "lab": "Web",
+  "name": "ViewOnce",
+  "points": 270,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 78,
+  "isCompletedByUser": false,
+  "index": 7,
+  "description": "A WhatsApp-inspired \"view once\" feature that self-destructs uploaded images after a single view. Can you find a way to get a flag from our flags?",
+  "author": "Flagyard",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 270,
+  "currentSubmissionPoints": 270,
+  "files": 0
+}

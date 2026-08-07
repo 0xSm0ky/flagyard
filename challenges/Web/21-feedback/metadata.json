@@ -1,0 +1,35 @@
+{
+  "id": "9d394ada-f1cd-4f2e-afb3-828e5fcfaf10",
+  "labId": 2,
+  "lab": "Web",
+  "name": "feedback",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 813,
+  "isCompletedByUser": false,
+  "index": 21,
+  "description": "Submit your feedback.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [
+    "web"
+  ],
+  "protocol": "web",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{78909649470553629b1438ebc5e435b8}",
+  "workStatus": "✅ solved"
+}

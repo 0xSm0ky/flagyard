@@ -1,0 +1,29 @@
+{
+  "id": "95829a7e-dc9a-423b-9122-559cc141862a",
+  "labId": 2,
+  "lab": "Web",
+  "name": "Txen",
+  "points": 140,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 84,
+  "isCompletedByUser": false,
+  "index": 12,
+  "description": "We proudly introduce our latest, completely impractical file-sharing service.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 140,
+  "currentSubmissionPoints": 140,
+  "files": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "12e9656d-9454-43aa-ba4d-a55ee8ed64b5",
+  "labId": 2,
+  "lab": "Web",
+  "name": "Pooking",
+  "points": 170,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 144,
+  "isCompletedByUser": false,
+  "index": 8,
+  "description": "Explore the cars world with Pooking.com",
+  "author": "Flagyard",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 170,
+  "currentSubmissionPoints": 170,
+  "files": 0
+}

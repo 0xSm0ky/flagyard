@@ -1,0 +1,32 @@
+{
+  "id": "77cc5012-f6e6-4ded-8a8c-ef883a4c8fc5",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "GuessyMan",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 540,
+  "isCompletedByUser": false,
+  "index": 6,
+  "description": "Are you a real guesser?",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{a01b1ac2858ec221d87a015d9f85837f}",
+  "workStatus": "✅ solved"
+}

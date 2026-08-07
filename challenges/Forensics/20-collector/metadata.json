@@ -1,0 +1,29 @@
+{
+  "id": "a7036150-2a56-4220-accf-2004ac2ada1c",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Collector",
+  "points": 140,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 192,
+  "isCompletedByUser": false,
+  "index": 20,
+  "description": "The antivirus has detected multiple files being dropped on the machine. We need to identify the downloaded files and retrieve the flag.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 140,
+  "currentSubmissionPoints": 140,
+  "files": 1
+}

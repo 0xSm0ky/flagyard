@@ -1,0 +1,29 @@
+{
+  "id": "d4e2b57e-d5be-4389-8304-ac5c5b38f9dc",
+  "labId": 2,
+  "lab": "Web",
+  "name": "OhMyPatch",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 395,
+  "isCompletedByUser": false,
+  "index": 17,
+  "description": "Don't worry about cutting meat, Butcher will do it!",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 0
+}

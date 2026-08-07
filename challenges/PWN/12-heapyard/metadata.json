@@ -1,0 +1,30 @@
+{
+  "id": "3f47ad49-f4cb-412d-bf9c-90111ac7fe7a",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "HeapYard",
+  "points": 140,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 95,
+  "isCompletedByUser": false,
+  "index": 12,
+  "description": "you need to write everywhere",
+  "author": "SAFCSP",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 140,
+  "currentSubmissionPoints": 140,
+  "files": 1
+}

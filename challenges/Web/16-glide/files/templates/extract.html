@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extracted Files</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #1f1f1f;
+            color: #ffffff;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .container {
+            width: 400px;
+            margin: 0 auto;
+        }
+        .list-group-item {
+            background-color: #343a40;
+            color: #ffffff;
+            border-color: #343a40;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Extracted Files</h2>
+        {% if message %}
+        <p class="text-danger">{{ message }}</p>
+        {% else %}
+        <ul class="list-group">
+            {% for file in files %}
+            <li class="list-group-item">{{ file }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+</body>
+</html>

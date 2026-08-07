@@ -1,0 +1,30 @@
+{
+  "id": "6f235ace-a1cb-4dc9-9233-4b5ab11197dc",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "mra",
+  "points": 170,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 66,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "My arm is overflowing with bugs, can u prove that?",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 170,
+  "currentSubmissionPoints": 170,
+  "files": 1
+}

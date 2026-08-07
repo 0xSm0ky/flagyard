@@ -1,0 +1,30 @@
+{
+  "id": "c1c7b376-c283-4e4c-89a8-546622b59ce0",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Forensics] [Week1] Historian",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 21,
+  "isCompletedByUser": false,
+  "index": 5,
+  "description": "In this challenge, participants are tasked with analyzing a VHDX file to uncover stored conversations. The goal is to extract the flag hidden in any chats...",
+  "author": "Flagyard",
+  "url": "https://files.flagyard.com/public/uploads/historian.zip",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

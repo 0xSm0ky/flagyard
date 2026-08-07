@@ -1,0 +1,29 @@
+{
+  "id": "f9d82889-d3a1-4424-a0c4-5a9d703d2c26",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Ch3k3r",
+  "points": 280,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 127,
+  "isCompletedByUser": false,
+  "index": 10,
+  "description": "Find a valid serial to get your flag.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 280,
+  "currentSubmissionPoints": 280,
+  "files": 1
+}

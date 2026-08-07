@@ -1,0 +1,29 @@
+{
+  "id": "b927f9bd-3d97-42f5-85e0-caf268ad0853",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Recon101",
+  "points": 260,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 105,
+  "isCompletedByUser": false,
+  "index": 15,
+  "description": "According to MITRE ATT&CK framework, the first tactic is reconnaissance. In this challenge, a pcap of the whole network is provided to be analyzed. The given task is to identify the first active interactions resulted from the attacker to the network.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 260,
+  "currentSubmissionPoints": 260,
+  "files": 1
+}

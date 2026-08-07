@@ -1,0 +1,29 @@
+{
+  "id": "2b164e5f-8c33-4f83-875f-d2e348f7f126",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Web] [Week2] SecureView",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 13,
+  "isCompletedByUser": false,
+  "index": 10,
+  "description": "We have launched our HTML Preview tool, designed to meet the highest standards of German security.\n\nHint: It’s not a 0day, but maybe an n-day exploit? Have you thought about why we’re using custom elements (lit-*) with template expression support?",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

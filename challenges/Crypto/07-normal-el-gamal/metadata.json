@@ -1,0 +1,30 @@
+{
+  "id": "386c77a3-ffe3-4e15-970b-a8fe9625f8bc",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "Normal El-Gamal",
+  "points": 280,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 168,
+  "isCompletedByUser": false,
+  "index": 7,
+  "description": "This is a totally normal ElGamal implementation, nothing can go wrong :D.",
+  "author": "Flagyard",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 280,
+  "currentSubmissionPoints": 280,
+  "files": 1
+}

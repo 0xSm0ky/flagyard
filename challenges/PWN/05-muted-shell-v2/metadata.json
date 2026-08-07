@@ -1,0 +1,30 @@
+{
+  "id": "a495cb74-6fab-4f61-bd1f-88107a760f18",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Muted Shell v2",
+  "points": 180,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 124,
+  "isCompletedByUser": false,
+  "index": 5,
+  "description": "can u do the same now?",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 180,
+  "currentSubmissionPoints": 180,
+  "files": 1
+}

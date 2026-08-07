@@ -1,0 +1,32 @@
+{
+  "id": "48f87855-d44e-4452-806e-dbe5c543571b",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Reversing] [Finals] F4k3r",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 28,
+  "isCompletedByUser": false,
+  "index": 12,
+  "description": "Not everything you see is real wait enough to see the truth.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{R34L_Flag_I4m_The_Real_One_-_-}",
+  "workStatus": "✅ solved"
+}

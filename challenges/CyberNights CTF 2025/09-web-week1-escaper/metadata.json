@@ -1,0 +1,29 @@
+{
+  "id": "0d972770-60c1-4d0a-9f16-deaf590d88e4",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Web] [Week1] Escaper",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 80,
+  "isCompletedByUser": false,
+  "index": 9,
+  "description": "I cannot escape my reality, can you escape it?",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

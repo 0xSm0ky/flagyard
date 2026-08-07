@@ -1,0 +1,29 @@
+{
+  "id": "3dabfb0c-9cde-4001-802d-f77d5e604bed",
+  "labId": 2,
+  "lab": "Web",
+  "name": "Mischenger",
+  "points": 190,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 102,
+  "isCompletedByUser": false,
+  "index": 5,
+  "description": "Let's get out of the American Ecosystem, No more mess 😉",
+  "author": "Flagyard",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 190,
+  "currentSubmissionPoints": 190,
+  "files": 0
+}

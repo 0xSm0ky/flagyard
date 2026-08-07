@@ -1,0 +1,29 @@
+{
+  "id": "95368f25-49e9-4b93-96aa-d512d8f2e8b5",
+  "labId": 2,
+  "lab": "Web",
+  "name": "TechShop",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 346,
+  "isCompletedByUser": false,
+  "index": 10,
+  "description": "You are alone in the shop just buy.",
+  "author": "Flagyard",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 0
+}

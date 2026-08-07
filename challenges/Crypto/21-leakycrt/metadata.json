@@ -1,0 +1,33 @@
+{
+  "id": "d3cec03d-31cf-4bcf-bae2-74e3fb832748",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "leakycrt",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 702,
+  "isCompletedByUser": false,
+  "index": 21,
+  "description": "I started signing a message, but gave up halfway through.",
+  "author": "defund",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto"
+  ],
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 2,
+  "solved": true,
+  "flag": "FlagY{f6fdd9f8ac38f5397731a3be3856c904}",
+  "workStatus": "✅ solved"
+}

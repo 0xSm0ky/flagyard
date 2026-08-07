@@ -1,0 +1,30 @@
+{
+  "id": "3f86e793-df48-4fee-a96e-f8dc993d8bc8",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[Forensics] ashes",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 11,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "Take your microscope... and dive through these memory ashes.",
+  "author": "lordkoma",
+  "url": "https://files.flagyard.com/public/uploads/memdump.zip",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 0
+}

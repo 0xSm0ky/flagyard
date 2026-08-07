@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+
+# leftover scratch extraction dirs from analysis — redundant with the zip already in files/
+**/extracted/
+
+# personal browser session artifacts (cookies/har), not part of the writeups
+session/
+
+# individual challenge artifacts too large for a normal git push (>5MB) —
+# the writeup + solve scripts capture what matters; raw dumps/images stay local
+challenges/Forensics/04-klay/files/memory.zip
+challenges/Forensics/05-sm/files/SM_Challenge.zip
+challenges/Forensics/13-phishynote/files/PhishyNote.zip
+challenges/Forensics/07-zoomheist/files/ZoomHeist.zip
+challenges/Forensics/10-cloudyheist/files/FlagStore.zip
+challenges/Forensics/19-locked-secrets/files/chall.zip
+challenges/CyberNights CTF 2025/16-forensics-finals-detector/files/Detector.zip
+challenges/Forensics/09-captcha-me-if-you-can/files/CaptchaMeIfYouCan.zip
+challenges/CyberNights CTF 2025/03-forensics-finals-infector/files/Infector.zip
+challenges/CyberNights CTF 2025/06-forensics-week1-exfiltrator/files/Exfiltrator.zip
+challenges/CyberNights CTF 2025/08-forensics-week2-catchmeifyou/files/Triage.zip
+challenges/Forensics/08-findtheleak/files/FindTheLeak.zip
+challenges/Forensics/22-matryoshka/files/Matryoshka.zip
+challenges/CyberNights CTF 2024/06-forensics-wave/files/Wave.zip
+challenges/Forensics/21-iced/files/Iced.zip
+challenges/Forensics/03-mefactory/files/MEfactory.zip
+challenges/Forensics/20-collector/files/EventLogs.zip
+challenges/CyberNights CTF 2024/01-forensics-walkingdead/files/The-Walking-Dead.zip
+challenges/CyberNights CTF 2024/08-reversing-dynamicy/files/ex/Microsoft.CodeAnalysis.CSharp.dll
+challenges/PWN/14-fs/files/fs.zip

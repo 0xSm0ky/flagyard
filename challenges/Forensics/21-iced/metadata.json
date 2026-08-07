@@ -1,0 +1,29 @@
+{
+  "id": "fb54fb56-25ab-452a-bfac-f695c3c89713",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Iced",
+  "points": 255,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 375,
+  "isCompletedByUser": false,
+  "index": 21,
+  "description": "The attacker successfully gained access to a target machine. The attacker utilized a legitimate Windows binary to drop malicious code, evading traditional security measures. Additionally, the attacker employed obfuscation techniques to further conceal the malicious activity, making detection and analysis more challenging.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 255,
+  "currentSubmissionPoints": 255,
+  "files": 1
+}

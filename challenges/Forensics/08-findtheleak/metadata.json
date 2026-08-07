@@ -1,0 +1,32 @@
+{
+  "id": "b00cb080-19f5-470b-bbe2-8e6023505962",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "FindTheLeak",
+  "points": 180,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 90,
+  "isCompletedByUser": false,
+  "index": 8,
+  "files": 1,
+  "description": "Sensitive information was exfiltrated from our systems—your mission is to discover exactly which data left the network.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 180,
+  "currentSubmissionPoints": 180,
+  "solved": true,
+  "flag": "FlagY{be4e0cad9bc94c1c78f390438020f457}",
+  "workStatus": "✅ solved"
+}

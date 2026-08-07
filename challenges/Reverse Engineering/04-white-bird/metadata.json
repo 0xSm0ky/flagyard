@@ -1,0 +1,32 @@
+{
+  "id": "1d0a24bc-b9ac-4c8a-af53-f4b8232feaf4",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "White Bird",
+  "points": 200,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 222,
+  "isCompletedByUser": false,
+  "index": 4,
+  "description": "Hope can lift you, courage can save you.",
+  "author": "Flagyard",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 200,
+  "currentSubmissionPoints": 200,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{9dd0a8062df77529e323905c5bbe7809}",
+  "workStatus": "✅ solved"
+}

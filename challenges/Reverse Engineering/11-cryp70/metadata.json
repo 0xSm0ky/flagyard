@@ -1,0 +1,29 @@
+{
+  "id": "c3426170-c18d-4e2b-8e28-0deedb9a0368",
+  "labId": 3,
+  "lab": "Reverse Engineering",
+  "name": "Cryp70",
+  "points": 170,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 112,
+  "isCompletedByUser": false,
+  "index": 11,
+  "description": "Maybe some reverse engineering skills and a little bit crypto would be good for you.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 1,
+    "name": "Reversing",
+    "nameAr": "Reversing",
+    "nameEn": "Reversing",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-reversing.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 170,
+  "currentSubmissionPoints": 170,
+  "files": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "32f43a57-872c-4cd8-8751-1b384344cfca",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "Nobodys Fault",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 156,
+  "isCompletedByUser": false,
+  "index": 11,
+  "description": "This is nobody's fault",
+  "author": "Flagyard",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{54b4e51c72c5a1eab624d4db820a2b7b}",
+  "workStatus": "✅ solved"
+}

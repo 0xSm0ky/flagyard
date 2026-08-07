@@ -1,0 +1,33 @@
+{
+  "id": "d7da4057-eda8-4fff-b948-308e696dfc79",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Muted Shell",
+  "points": 120,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 313,
+  "isCompletedByUser": false,
+  "index": 6,
+  "description": "can u read something without opening it?",
+  "author": "Flagyard",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 120,
+  "currentSubmissionPoints": 120,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{34a46d9e96758f5474d57be9315a6580}",
+  "workStatus": "✅ solved"
+}

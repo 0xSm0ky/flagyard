@@ -1,0 +1,32 @@
+{
+  "id": "5e5e8248-5f66-4abb-857d-14233aca661f",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "Square Pea",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 269,
+  "isCompletedByUser": false,
+  "index": 5,
+  "description": "What do you call a pea squared?",
+  "author": "Flagyard",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{6355e6f764f00847af6befe1}",
+  "workStatus": "✅ solved"
+}

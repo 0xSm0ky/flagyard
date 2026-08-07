@@ -1,0 +1,31 @@
+{
+  "id": "ddbef8e2-ac71-4695-b0ac-a1c9538b67c4",
+  "labId": 8,
+  "lab": "Competitive Crypto",
+  "name": "Quadratic CRT",
+  "points": 150,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 195,
+  "isCompletedByUser": false,
+  "index": 2,
+  "description": "Do you know about quadratic integers?",
+  "author": "Joseph",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "Crypto"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 150,
+  "currentSubmissionPoints": 150,
+  "files": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "545bfa62-723a-4b5f-a93d-303074f24e9c",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "Dahdi",
+  "points": 260,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 48,
+  "isCompletedByUser": false,
+  "index": 3,
+  "description": "My name is Dahdi, I have master degree in cryptography, and I can determine encryption modes by looking at the cipher text only.\n\nFlag format: FlagY{md5}",
+  "author": "Flagyard",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 260,
+  "currentSubmissionPoints": 260,
+  "files": 0
+}

@@ -1,0 +1,8 @@
+# External writeup references (user-provided)
+- https://an0nbil.github.io/                         (collection)
+- https://github.com/x6vrn/flagYard-web              (web collection)
+- https://s00ra.github.io/tags/flagyard/             (collection)
+- https://medium.com/@jxdCybersec/jseverywhere-forensics-writeup-flagyard-cc6777c56c6f  (Forensics: JSEverywhere)
+- https://medium.com/@asemalsmadi4/flagyard-ctf-write-up-ransomflag-9bd1846c2f48        (Crypto: RansomFlag - SOLVED)
+- https://medium.com/@redaomar963/cycy-flagyard-web-writeup-c6cacf49d931                (Web: Cucy)
+- https://theeomega.medium.com/flagyard-feedback-web-exploitation-ctf-challenge-writeup-96fa01ca385b (Web: feedback - SOLVED)

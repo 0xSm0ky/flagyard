@@ -1,0 +1,30 @@
+{
+  "id": "4f43111e-3bf2-4802-ba08-b7b4ecdcbb12",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "Shell land",
+  "points": 170,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 121,
+  "isCompletedByUser": false,
+  "index": 15,
+  "description": "you must know your code!",
+  "author": "SAFCSP",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 170,
+  "currentSubmissionPoints": 170,
+  "files": 1
+}

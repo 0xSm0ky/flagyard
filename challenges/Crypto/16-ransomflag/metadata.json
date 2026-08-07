@@ -1,0 +1,34 @@
+{
+  "id": "81dee69c-14f5-4572-a4a6-cbde33b4663e",
+  "labId": 4,
+  "lab": "Crypto",
+  "name": "RansomFlag",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 1252,
+  "isCompletedByUser": false,
+  "index": 16,
+  "description": "The flag was encrypted using this python script, can you recover the flag ?",
+  "author": "schizo",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [
+    "crypto"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{Hybr!d_Encryp7i0n_Fl4g}",
+  "workStatus": "✅ solved"
+}

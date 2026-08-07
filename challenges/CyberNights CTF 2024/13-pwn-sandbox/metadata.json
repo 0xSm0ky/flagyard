@@ -1,0 +1,30 @@
+{
+  "id": "9118fff4-f580-453f-b86d-7d1c1752c6b1",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[PWN] sandbox",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 24,
+  "isCompletedByUser": false,
+  "index": 13,
+  "description": "can you escape the sandbox?",
+  "author": "0x3z",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

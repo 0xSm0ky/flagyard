@@ -1,0 +1,29 @@
+{
+  "id": "0e3a8755-0323-47d1-9bf4-21f80c5a07a6",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Forensics] [Week1] Exfiltrator",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 23,
+  "isCompletedByUser": false,
+  "index": 6,
+  "description": "A secure system has been compromised. Investigators detected unauthorized sessions, but no files were transferred. However, traces suggest activity for data exfiltration,Follow the attacker’s steps and extract the hidden flag.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

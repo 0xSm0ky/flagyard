@@ -1,0 +1,29 @@
+{
+  "id": "916dab61-e24c-4cf9-92f7-cb4efa4270ee",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Reversing] [Week2] B451c5",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 35,
+  "isCompletedByUser": false,
+  "index": 7,
+  "description": "Let's back to the basics again.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

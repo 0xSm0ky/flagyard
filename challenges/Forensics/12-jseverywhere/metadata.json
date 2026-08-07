@@ -1,0 +1,32 @@
+{
+  "id": "8bd3efa6-a129-4a2d-84e2-eacc7e39e0ab",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "JSEveryWhere",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 427,
+  "isCompletedByUser": false,
+  "index": 12,
+  "description": "A packet capture taken from a compromised network has been provided for your analysis try to identify what happened and grap the prize.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{4d783f02196bf3d3033e6d254daa10db}",
+  "workStatus": "✅ solved"
+}

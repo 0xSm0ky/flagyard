@@ -1,0 +1,29 @@
+{
+  "id": "6d3aa8df-cf98-48ab-82a4-33a88b508874",
+  "labId": 14,
+  "lab": "Forensics",
+  "name": "Klay",
+  "points": 290,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 70,
+  "isCompletedByUser": false,
+  "index": 4,
+  "description": "You've come across an elusive process lurking deep within the system, its presence masked by a veil of secrecy. This process, known by a common name, seems harmless at first glance, but beneath its ordinary facade lies a labyrinth of deceptive techniques. Hidden in the shadows.",
+  "author": "Flagyard",
+  "category": {
+    "id": 6,
+    "name": "Forensics",
+    "nameAr": "Forensics",
+    "nameEn": "Forensics",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-forensics.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 290,
+  "currentSubmissionPoints": 290,
+  "files": 0
+}

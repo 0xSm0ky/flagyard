@@ -1,0 +1,32 @@
+{
+  "id": "b7952ffc-8a4d-4e78-b02e-a8086ef28612",
+  "labId": 9,
+  "lab": "SAFCSP booth BlackHat MEA",
+  "name": "Jungle",
+  "points": 50,
+  "difficulty": "easy",
+  "status": "retired",
+  "numberOfSolutions": 49,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "Lost it in the Jungle.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [
+    "stego"
+  ],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 50,
+  "currentSubmissionPoints": 50,
+  "files": 1,
+  "workStatus": "⚪ lab retired — not submittable, deprioritized (agent stopped mid-work)"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "d8db078b-d37d-44e3-80b7-bdecdc6a38f2",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "byte",
+  "points": 100,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 144,
+  "isCompletedByUser": false,
+  "index": 11,
+  "description": "Every byte counts",
+  "author": "SAFCSP",
+  "category": {
+    "id": 3,
+    "name": "PWN",
+    "nameAr": "PWN",
+    "nameEn": "PWN",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-pwn.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 100,
+  "currentSubmissionPoints": 100,
+  "files": 1
+}

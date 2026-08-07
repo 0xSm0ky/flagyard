@@ -1,0 +1,30 @@
+{
+  "id": "30551d22-b384-4cb1-99a1-70419319439e",
+  "labId": 8,
+  "lab": "Competitive Crypto",
+  "name": "incunabula",
+  "points": 300,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 106,
+  "isCompletedByUser": false,
+  "index": 4,
+  "description": "Just another good and strong cryptosystem. Please, decrypt the flag.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 2,
+    "name": "Crypto",
+    "nameAr": "Crypto",
+    "nameEn": "Crypto",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-crypto.svg"
+  },
+  "tags": [],
+  "protocol": "tcp",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 300,
+  "currentSubmissionPoints": 300,
+  "files": 1
+}

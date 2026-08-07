@@ -1,0 +1,32 @@
+{
+  "id": "9d04c152-38fe-4d8d-a85b-b8c16c63e99b",
+  "labId": 13,
+  "lab": "CyberNights CTF 2024",
+  "name": "[Reversing] Dynamicy",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 29,
+  "isCompletedByUser": false,
+  "index": 8,
+  "description": "The only way to get the flag is to enter my brain, lool",
+  "author": "schizo",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1,
+  "solved": true,
+  "flag": "FlagY{F1N411Y_Y0U_4r3_H3r3_H4CK3r}",
+  "workStatus": "✅ solved"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "89bf901a-e689-4334-ad3e-02d857ca23e5",
+  "labId": 2,
+  "lab": "Web",
+  "name": "BlogHub",
+  "points": 160,
+  "difficulty": "medium",
+  "status": "active",
+  "numberOfSolutions": 22,
+  "isCompletedByUser": false,
+  "index": 1,
+  "description": "A newly deployed community blog platform, take a closer look and see if you can uncover anything beyond normal user access.",
+  "author": "Flagyard",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 160,
+  "currentSubmissionPoints": 160,
+  "files": 0
+}

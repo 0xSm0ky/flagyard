@@ -1,0 +1,30 @@
+{
+  "id": "ed663d69-3a6f-42ea-93aa-62ddde3d5461",
+  "labId": 16,
+  "lab": "CyberNights CTF 2025",
+  "name": "[Crypto] [Finals] UnCPAble",
+  "points": 1,
+  "difficulty": "easy",
+  "status": "active",
+  "numberOfSolutions": 18,
+  "isCompletedByUser": false,
+  "index": 22,
+  "description": "You are a cryptanalyst working at a top research lab, tasked with analyzing a mysterious encryption module acquired from the grey market. Suspecting it secures sensitive communications, your team reverse-engineered the device, reprogramming it to encrypt chosen plaintexts while measuring its power consumption.\n\nAfter extensive profiling, you now have plaintexts, their corresponding ciphertexts, and power traces from the encryption process. The data suggests it uses AES, but the key remains unknown.\n\nYour mission: use side-channel analysis to recover the key. If successful, this breakthrough will allow you to decrypt future intercepted communications.",
+  "author": "Flagyard",
+  "category": {
+    "id": 5,
+    "name": "MISC",
+    "nameAr": "MISC",
+    "nameEn": "MISC",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-misc.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "internalPort": 5000,
+  "hasChallengeFiles": true,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 1,
+  "currentSubmissionPoints": 1,
+  "files": 1
+}

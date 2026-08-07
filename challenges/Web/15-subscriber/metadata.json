@@ -1,0 +1,29 @@
+{
+  "id": "32194a95-2e08-4f90-b903-415e8326c065",
+  "labId": 2,
+  "lab": "Web",
+  "name": "Subscriber",
+  "points": 260,
+  "difficulty": "hard",
+  "status": "active",
+  "numberOfSolutions": 153,
+  "isCompletedByUser": false,
+  "index": 15,
+  "description": "Join the l33ts and subscribe to our innocent shop.",
+  "author": "SAFCSP",
+  "category": {
+    "id": 4,
+    "name": "WEB",
+    "nameAr": "WEB",
+    "nameEn": "WEB",
+    "avatar": "https://files.flagyard.com/public/uploads/category-avatar-web.svg"
+  },
+  "tags": [],
+  "protocol": "web",
+  "hasChallengeFiles": false,
+  "hasWriteupFiles": false,
+  "className": "Challenge",
+  "nextSubmissionPoints": 260,
+  "currentSubmissionPoints": 260,
+  "files": 0
+}
