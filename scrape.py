@@ -88,7 +88,7 @@ def write_solution(path, meta, lab_name):
 
 def cmd_catalog():
     # Challenge folders are keyed by the server's stable challenge id, not by
-    # position in the API response — that array reorders whenever a challenge
+    # position in the API response - that array reorders whenever a challenge
     # is inserted anywhere in a lab, which would otherwise rename/duplicate
     # every folder after the insertion point.
     by_id = {}
@@ -201,7 +201,7 @@ def build_progress():
     solved = sum(1 for m in rows if m.get("solved"))
     pending_candidates = sum(1 for m in rows if not m.get("solved") and m.get("flagCandidate"))
     lines = [
-        "# FlagYard Training Labs — Progress\n",
+        "# FlagYard Training Labs - Progress\n",
         f"Total challenges: **{len(rows)}** | Solved: **{solved}**"
         + (f" | Flag recovered, pending live submission: **{pending_candidates}**" if pending_candidates else "")
         + "\n",
@@ -210,7 +210,7 @@ def build_progress():
         lines += [
             "Rows marked \"🟢 flag recovered\" have a `flagCandidate` in metadata.json ready "
             "to submit via `solve.py flag <labId> <id> <flag>` but have NOT been confirmed "
-            "accepted by FlagYard yet (no live auth token when they were added) — verify on "
+            "accepted by FlagYard yet (no live auth token when they were added) - verify on "
             "submit, then re-run `solve.py mark` to promote to ✅ solved.\n",
         ]
     lines += [

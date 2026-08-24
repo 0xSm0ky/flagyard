@@ -23,10 +23,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}`
-
-_Source: b0f.ru writeup (github.com/0xIDA) — computed/printed by their solver, not confirmed live-submitted on their end._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 2 f803aec2-b941-4a8d-9797-4fb229a17fbf "FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}"` once a fresh token is in place, then `python solve.py mark "challenges\Web\09-lmay" "FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}"`._
+_Not yet found._ Tried `FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}` (from b0f.ru writeup (github.com/0xIDA) - computed/printed by their solver, not confirmed live-submitted on their end.) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

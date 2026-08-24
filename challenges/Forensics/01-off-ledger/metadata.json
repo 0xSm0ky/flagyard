@@ -6,7 +6,7 @@
   "points": 240,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 33,
+  "numberOfSolutions": 89,
   "isCompletedByUser": false,
   "index": 1,
   "description": "The gateway was bleeding. Find what walked out.",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 240,
   "files": 1,
   "flagCandidate": "FlagY{d82d0689b92048fa72e9d6e6d672ce51}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{d82d0689b92048fa72e9d6e6d672ce51}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{d82d0689b92048fa72e9d6e6d672ce51}",
+  "solved": true
 }

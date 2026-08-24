@@ -6,7 +6,7 @@
   "points": 100,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 473,
+  "numberOfSolutions": 544,
   "isCompletedByUser": false,
   "index": 15,
   "description": "Just a simple encryption algorithm based on basic arithmetic operations.",

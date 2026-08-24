@@ -6,7 +6,7 @@
   "points": 300,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 78,
+  "numberOfSolutions": 101,
   "isCompletedByUser": false,
   "index": 1,
   "description": "Am I going insane? (lua base `c33b1728aeb7dfeec4013562660e07d32697aa6b`)",
@@ -29,8 +29,8 @@
   "nextSubmissionPoints": 300,
   "currentSubmissionPoints": 300,
   "files": 2,
-  "solved": false,
+  "solved": true,
   "flag": "FlagY{Lua_backd00r_1s_co0l3r_:)}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
+  "workStatus": "✅ solved",
   "flagCandidate": "FlagY{Lua_backd00r_1s_co0l3r_:)}"
 }

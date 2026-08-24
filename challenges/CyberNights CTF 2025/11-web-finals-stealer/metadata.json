@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 15,
+  "numberOfSolutions": 16,
   "isCompletedByUser": false,
   "index": 11,
   "description": "Welcome to the Bookstore! We've recently implemented a new feature that allows sellers to add detailed descriptions to their books. Our admin bot regularly checks these descriptions for any inappropriate content or the out of stock items.",

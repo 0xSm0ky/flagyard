@@ -30,6 +30,7 @@
   "currentSubmissionPoints": 120,
   "files": 1,
   "flagCandidate": "FlagY{cd98501b5e33480e0ae4dbef3f9e1c7b}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{cd98501b5e33480e0ae4dbef3f9e1c7b}"
+  "workStatus": "🔴 flag rejected",
+  "flag": "FlagY{cd98501b5e33480e0ae4dbef3f9e1c7b}",
+  "solved": false
 }

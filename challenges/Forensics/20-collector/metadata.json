@@ -6,7 +6,7 @@
   "points": 140,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 192,
+  "numberOfSolutions": 221,
   "isCompletedByUser": false,
   "index": 20,
   "description": "The antivirus has detected multiple files being dropped on the machine. We need to identify the downloaded files and retrieve the flag.",

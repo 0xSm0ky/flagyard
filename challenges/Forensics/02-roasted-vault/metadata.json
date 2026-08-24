@@ -6,7 +6,7 @@
   "points": 290,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 71,
+  "numberOfSolutions": 122,
   "isCompletedByUser": false,
   "index": 2,
   "description": "5 minutes is all it takes.",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 290,
   "files": 1,
   "flagCandidate": "FlagY{42bcdddd8925ae620bfeb69eaaa9eda3}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{42bcdddd8925ae620bfeb69eaaa9eda3}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{42bcdddd8925ae620bfeb69eaaa9eda3}",
+  "solved": true
 }

@@ -22,10 +22,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{3ddc0a11c5b726276bc1c3aa378093cc}`
-
-_Source: b0f.ru writeup — author states live on tcp.flagyard.com, submit success. NOTE: our local files/ has no zip for this challenge — likely a shared always-on TCP instance rather than a downloadable archive; verify the service is still up before retrying._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 5 47d59693-5619-4ce7-ac7c-e6718b81f1ec "FlagY{3ddc0a11c5b726276bc1c3aa378093cc}"` once a fresh token is in place, then `python solve.py mark "challenges\PWN\14-fs" "FlagY{3ddc0a11c5b726276bc1c3aa378093cc}"`._
+_Not yet found._ Tried `FlagY{3ddc0a11c5b726276bc1c3aa378093cc}` (from b0f.ru writeup - author states live on tcp.flagyard.com, submit success. NOTE: our local files/ has no zip for this challenge - likely a shared always-on TCP instance rather than a downloadable archive; verify the service is still up before retrying.) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

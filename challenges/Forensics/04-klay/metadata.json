@@ -6,7 +6,7 @@
   "points": 290,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 70,
+  "numberOfSolutions": 110,
   "isCompletedByUser": false,
   "index": 4,
   "description": "You've come across an elusive process lurking deep within the system, its presence masked by a veil of secrecy. This process, known by a common name, seems harmless at first glance, but beneath its ordinary facade lies a labyrinth of deceptive techniques. Hidden in the shadows.",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 290,
   "files": 0,
   "flagCandidate": "FlagY{abca84178286c08b45ef7ec93321b918}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{abca84178286c08b45ef7ec93321b918}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{abca84178286c08b45ef7ec93321b918}",
+  "solved": true
 }

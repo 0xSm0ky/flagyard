@@ -22,10 +22,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{60f432f87eb172e8cd5608588586bd29}`
-
-_Source: b0f.ru writeup — computed/printed, no accept statement on their page._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 5 8f7b2333-fa0b-4a9f-8ddf-1491fde3c8ac "FlagY{60f432f87eb172e8cd5608588586bd29}"` once a fresh token is in place, then `python solve.py mark "challenges\PWN\08-phone-book" "FlagY{60f432f87eb172e8cd5608588586bd29}"`._
+_Not yet found._ Tried `FlagY{60f432f87eb172e8cd5608588586bd29}` (from b0f.ru writeup - computed/printed, no accept statement on their page.) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

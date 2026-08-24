@@ -6,7 +6,7 @@
   "points": 100,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 1252,
+  "numberOfSolutions": 1339,
   "isCompletedByUser": false,
   "index": 16,
   "description": "The flag was encrypted using this python script, can you recover the flag ?",

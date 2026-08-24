@@ -6,7 +6,7 @@
   "points": 255,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 375,
+  "numberOfSolutions": 425,
   "isCompletedByUser": false,
   "index": 21,
   "description": "The attacker successfully gained access to a target machine. The attacker utilized a legitimate Windows binary to drop malicious code, evading traditional security measures. Additionally, the attacker employed obfuscation techniques to further conceal the malicious activity, making detection and analysis more challenging.",

@@ -6,7 +6,7 @@
   "points": 280,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 168,
+  "numberOfSolutions": 205,
   "isCompletedByUser": false,
   "index": 7,
   "description": "This is a totally normal ElGamal implementation, nothing can go wrong :D.",
@@ -28,6 +28,7 @@
   "currentSubmissionPoints": 280,
   "files": 1,
   "flagCandidate": "FlagY{c7ca480f5d57627fa29d030dd4636a16}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{c7ca480f5d57627fa29d030dd4636a16}"
+  "workStatus": "🔴 flag rejected",
+  "flag": "FlagY{c7ca480f5d57627fa29d030dd4636a16}",
+  "solved": false
 }

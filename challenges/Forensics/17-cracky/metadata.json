@@ -6,7 +6,7 @@
   "points": 270,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 273,
+  "numberOfSolutions": 314,
   "isCompletedByUser": false,
   "index": 17,
   "description": "High-profile tech company has released an Android application as part of their new security system. However, the application appears to have been compromised, and sensitive information may be hidden within its code. Your task is to reverse engineer the application, uncover the hidden logic, and retrieve the flag that proves the application has been tampered with. The challenge involves decompiling the APK, analyzing the source code, and identifying the correct password to unscramble the hidden flag.",

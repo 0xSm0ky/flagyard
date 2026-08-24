@@ -6,7 +6,7 @@
   "points": 300,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 71,
+  "numberOfSolutions": 120,
   "isCompletedByUser": false,
   "index": 3,
   "description": "A decommissioned embedded device came in for analysis. The SPI flash was dumped before the unit was wiped. Engineering says there was a factory provisioning secret loaded during manufacturing — but nobody kept the paperwork. The firmware team swears it's in there somewhere.",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 300,
   "files": 1,
   "flagCandidate": "FlagY{8b4e2d7c9f1a6e3b5d0f8c4a7e2b9d6f}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{8b4e2d7c9f1a6e3b5d0f8c4a7e2b9d6f}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{8b4e2d7c9f1a6e3b5d0f8c4a7e2b9d6f}",
+  "solved": true
 }

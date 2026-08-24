@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 81,
+  "numberOfSolutions": 85,
   "isCompletedByUser": false,
   "index": 6,
   "description": "Flag format FlagY{}\nNote: the answer should be in lowercase ",

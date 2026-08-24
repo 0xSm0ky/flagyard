@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 18,
+  "numberOfSolutions": 26,
   "isCompletedByUser": false,
   "index": 22,
   "description": "You are a cryptanalyst working at a top research lab, tasked with analyzing a mysterious encryption module acquired from the grey market. Suspecting it secures sensitive communications, your team reverse-engineered the device, reprogramming it to encrypt chosen plaintexts while measuring its power consumption.\n\nAfter extensive profiling, you now have plaintexts, their corresponding ciphertexts, and power traces from the encryption process. The data suggests it uses AES, but the key remains unknown.\n\nYour mission: use side-channel analysis to recover the key. If successful, this breakthrough will allow you to decrypt future intercepted communications.",

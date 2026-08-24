@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 18,
+  "numberOfSolutions": 26,
   "isCompletedByUser": false,
   "index": 16,
   "description": "In this challenge, You're a digital forensic investigator called in to analyze a compromised system. The incident appears to involve sophisticated malware that managed to evade initial detection and even dropped payload. Your mission is to follow the digital trail, and ultimately extract the hidden flag.",

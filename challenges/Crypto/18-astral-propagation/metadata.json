@@ -6,7 +6,7 @@
   "points": 200,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 160,
+  "numberOfSolutions": 189,
   "isCompletedByUser": false,
   "index": 18,
   "description": "CBC mode is vulnerable to padding oracle attacks, but what about PCBC?",

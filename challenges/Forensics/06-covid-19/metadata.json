@@ -6,7 +6,7 @@
   "points": 420,
   "difficulty": "insane",
   "status": "active",
-  "numberOfSolutions": 117,
+  "numberOfSolutions": 187,
   "isCompletedByUser": false,
   "index": 6,
   "description": "PharmaMed Inc.'s IT department has identified unusual network activity originating from a critical research system involved in Covid-19 vaccine development. Suspicious communications suggest that sensitive data may have been exfiltrated by a sophisticated threat actor. Your task is to investigate the captured network traffic, system memory, and other artifacts to uncover the details of the breach and retrieve the exfiltrated data. The flag is hidden within the exfiltrated content..",

@@ -6,7 +6,7 @@
   "points": 300,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 217,
+  "numberOfSolutions": 298,
   "isCompletedByUser": false,
   "index": 1,
   "description": "Really realistic RNG using real numbers.",
@@ -29,6 +29,7 @@
   "currentSubmissionPoints": 300,
   "files": 1,
   "flagCandidate": "FlagY{r34lly_n0t_g00d_RNG_9aedfc5b67}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{r34lly_n0t_g00d_RNG_9aedfc5b67}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{r34lly_n0t_g00d_RNG_9aedfc5b67}",
+  "solved": true
 }

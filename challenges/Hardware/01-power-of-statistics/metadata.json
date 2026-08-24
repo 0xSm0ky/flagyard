@@ -6,7 +6,7 @@
   "points": 300,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 179,
+  "numberOfSolutions": 231,
   "isCompletedByUser": false,
   "index": 1,
   "description": "Once upon a time people thought that a crypto algorithm is secure if the math is secured. But little did they know that we also have physics!!! Can you break this crypto device and retrieve the encrypted flag?",

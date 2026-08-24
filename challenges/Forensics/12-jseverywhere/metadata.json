@@ -6,7 +6,7 @@
   "points": 100,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 427,
+  "numberOfSolutions": 521,
   "isCompletedByUser": false,
   "index": 12,
   "description": "A packet capture taken from a compromised network has been provided for your analysis try to identify what happened and grap the prize.",

@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 29,
+  "numberOfSolutions": 35,
   "isCompletedByUser": false,
   "index": 4,
   "description": "A critical system was recently compromised, and the attacker wiped key forensic evidence. The Windows Event Logs were cleared, leaving little trace of what happened.Your mission is to know what happend and extract the flag hidden inside.",

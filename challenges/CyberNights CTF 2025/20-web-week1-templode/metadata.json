@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 69,
+  "numberOfSolutions": 70,
   "isCompletedByUser": false,
   "index": 20,
   "description": "We don't trust any URL shortener, so we decided to make our own.",

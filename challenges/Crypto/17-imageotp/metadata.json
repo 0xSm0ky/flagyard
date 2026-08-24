@@ -6,7 +6,7 @@
   "points": 50,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 266,
+  "numberOfSolutions": 286,
   "isCompletedByUser": false,
   "index": 17,
   "description": "I used a one-time pad to encrypt two images. Can you recover them?",

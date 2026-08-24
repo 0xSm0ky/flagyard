@@ -6,7 +6,7 @@
   "points": 150,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 66,
+  "numberOfSolutions": 83,
   "isCompletedByUser": false,
   "index": 8,
   "description": "The force of memory",
@@ -28,6 +28,7 @@
   "currentSubmissionPoints": 150,
   "files": 1,
   "flagCandidate": "FlagY{60f432f87eb172e8cd5608588586bd29}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{60f432f87eb172e8cd5608588586bd29}"
+  "workStatus": "🔴 flag rejected",
+  "flag": "FlagY{60f432f87eb172e8cd5608588586bd29}",
+  "solved": false
 }

@@ -6,7 +6,7 @@
   "points": 250,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 137,
+  "numberOfSolutions": 163,
   "isCompletedByUser": false,
   "index": 4,
   "description": "Please unlock my flag",
@@ -27,7 +27,8 @@
   "nextSubmissionPoints": 250,
   "currentSubmissionPoints": 250,
   "files": 2,
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
+  "workStatus": "✅ solved",
   "flagCandidate": "FlagY{ins3rt_go0d_flag_text_h3re}",
-  "flag": "FlagY{ins3rt_go0d_flag_text_h3re}"
+  "flag": "FlagY{ins3rt_go0d_flag_text_h3re}",
+  "solved": true
 }

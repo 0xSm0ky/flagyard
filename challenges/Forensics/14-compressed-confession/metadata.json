@@ -6,7 +6,7 @@
   "points": 120,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 355,
+  "numberOfSolutions": 418,
   "isCompletedByUser": false,
   "index": 14,
   "description": "You are provided with a forensic triage image containing only the user-level registry hives NTUSER.DAT and UsrClass.dat. Your objective is to identify the archive file that the intruder created for staging exfiltration data, and obtain the hidden flag.",

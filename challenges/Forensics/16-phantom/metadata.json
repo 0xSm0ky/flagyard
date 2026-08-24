@@ -6,7 +6,7 @@
   "points": 110,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 398,
+  "numberOfSolutions": 463,
   "isCompletedByUser": false,
   "index": 16,
   "description": "A suspicious image file was deleted from a user's system, but remnants of it may still exist within the Windows cache. Your task is to recover this deleted image and uncover the hidden flag.",

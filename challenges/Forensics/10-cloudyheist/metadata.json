@@ -6,7 +6,7 @@
   "points": 160,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 145,
+  "numberOfSolutions": 187,
   "isCompletedByUser": false,
   "index": 10,
   "description": "One of our clients—a healthcare organization subject to HIPAA—has experienced a cyber-security incident. They need to determine whether any data were exfiltrated and, if so, exactly which data were compromised.",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 160,
   "files": 0,
   "flagCandidate": "FlagY{3cf525d39011cc990f48048870bce142}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{3cf525d39011cc990f48048870bce142}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{3cf525d39011cc990f48048870bce142}",
+  "solved": true
 }

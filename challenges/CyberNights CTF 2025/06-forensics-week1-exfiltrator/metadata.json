@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 23,
+  "numberOfSolutions": 31,
   "isCompletedByUser": false,
   "index": 6,
   "description": "A secure system has been compromised. Investigators detected unauthorized sessions, but no files were transferred. However, traces suggest activity for data exfiltration,Follow the attacker’s steps and extract the hidden flag.",

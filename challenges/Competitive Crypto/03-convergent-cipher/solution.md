@@ -21,10 +21,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{m33t_1n_th3_m1ddl3_0r_d1ff3r3n714l?}`
-
-_Source: b0f.ru writeup — computed/recovered, no explicit accepted statement on their page._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 8 c2f32c57-453a-4f49-8e6f-d467084c24b0 "FlagY{m33t_1n_th3_m1ddl3_0r_d1ff3r3n714l?}"` once a fresh token is in place, then `python solve.py mark "challenges\Competitive Crypto\03-convergent-cipher" "FlagY{m33t_1n_th3_m1ddl3_0r_d1ff3r3n714l?}"`._
+_Not yet found._ Tried `FlagY{m33t_1n_th3_m1ddl3_0r_d1ff3r3n714l?}` (from b0f.ru writeup - computed/recovered, no explicit accepted statement on their page.) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

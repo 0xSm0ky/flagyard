@@ -22,10 +22,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{c7ca480f5d57627fa29d030dd4636a16}`
-
-_Source: b0f.ru writeup — author states live-verified and accepted by FlagYard submit._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 4 386c77a3-ffe3-4e15-970b-a8fe9625f8bc "FlagY{c7ca480f5d57627fa29d030dd4636a16}"` once a fresh token is in place, then `python solve.py mark "challenges\Crypto\07-normal-el-gamal" "FlagY{c7ca480f5d57627fa29d030dd4636a16}"`._
+_Not yet found._ Tried `FlagY{c7ca480f5d57627fa29d030dd4636a16}` (from b0f.ru writeup - author states live-verified and accepted by FlagYard submit.) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

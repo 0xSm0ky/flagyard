@@ -23,10 +23,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{2423516b2496f714b50b25a90e2bcbe4}`
-
-_Source: b0f.ru writeup — computed/printed, not confirmed live-submitted on their end._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 2 d4e2b57e-d5be-4389-8304-ac5c5b38f9dc "FlagY{2423516b2496f714b50b25a90e2bcbe4}"` once a fresh token is in place, then `python solve.py mark "challenges\Web\17-ohmypatch" "FlagY{2423516b2496f714b50b25a90e2bcbe4}"`._
+_Not yet found._ Tried `FlagY{2423516b2496f714b50b25a90e2bcbe4}` (from b0f.ru writeup - computed/printed, not confirmed live-submitted on their end.) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

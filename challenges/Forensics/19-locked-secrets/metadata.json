@@ -6,7 +6,7 @@
   "points": 160,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 247,
+  "numberOfSolutions": 282,
   "isCompletedByUser": false,
   "index": 19,
   "description": "A financial institution was breached, and attackers accessed sensitive records on a BitLocker-encrypted drive. They decrypted a local admin password stored in a hidden configuration file to unlock the drive. Your task is to recover the password, unlock the drive, and retrieve the file containing the flag.",

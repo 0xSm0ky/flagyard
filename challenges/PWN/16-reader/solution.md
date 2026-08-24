@@ -22,10 +22,6 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
-`FlagY{697f54b8dcf4dcb165303b6757fea8ff}`
-
-_Source: b0f.ru writeup — author states submit success (isSuccess: true, FlagYard API)._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 5 ec874161-e57b-4403-8ace-de20790c4b1f "FlagY{697f54b8dcf4dcb165303b6757fea8ff}"` once a fresh token is in place, then `python solve.py mark "challenges\PWN\16-reader" "FlagY{697f54b8dcf4dcb165303b6757fea8ff}"`._
+_Not yet found._ Tried `FlagY{697f54b8dcf4dcb165303b6757fea8ff}` (from b0f.ru writeup - author states submit success (isSuccess: true, FlagYard API).) - **FlagYard rejected it** for this account ('🔴 flag rejected'). Either the writeup's flag was wrong/stale, this specific challenge is per-user unlike most training-lab challenges, or the challenge has since changed. Needs solving for real.

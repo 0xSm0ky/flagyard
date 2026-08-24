@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 21,
+  "numberOfSolutions": 28,
   "isCompletedByUser": false,
   "index": 8,
   "description": "The challenge involves understanding and detecting persistence techniques used by attackers to maintain access on a compromised system. It highlights the importance of inspecting system files and services for unauthorized modifications.",

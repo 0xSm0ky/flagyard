@@ -6,7 +6,7 @@
   "points": 200,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 115,
+  "numberOfSolutions": 132,
   "isCompletedByUser": false,
   "index": 20,
   "description": "I slightly modified an [ed25519 implementation](https://github.com/pyca/ed25519) - can you forge a signature? Be sure to diff the code.",
@@ -31,6 +31,7 @@
   "currentSubmissionPoints": 200,
   "files": 2,
   "flagCandidate": "FlagY{d80917ef064243a6fc75c20f55cb0452}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{d80917ef064243a6fc75c20f55cb0452}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{d80917ef064243a6fc75c20f55cb0452}",
+  "solved": true
 }

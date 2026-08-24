@@ -6,7 +6,7 @@
   "points": 150,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 195,
+  "numberOfSolutions": 264,
   "isCompletedByUser": false,
   "index": 2,
   "description": "Do you know about quadratic integers?",
@@ -29,6 +29,7 @@
   "currentSubmissionPoints": 150,
   "files": 1,
   "flagCandidate": "FlagY{qu4dr4t1c_1nt3g3rs_ar3_fun_abc360fd85fae6c0b1adf0d678ac41}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{qu4dr4t1c_1nt3g3rs_ar3_fun_abc360fd85fae6c0b1adf0d678ac41}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{qu4dr4t1c_1nt3g3rs_ar3_fun_abc360fd85fae6c0b1adf0d678ac41}",
+  "solved": true
 }

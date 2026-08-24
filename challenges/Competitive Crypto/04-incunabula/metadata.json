@@ -6,7 +6,7 @@
   "points": 300,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 106,
+  "numberOfSolutions": 138,
   "isCompletedByUser": false,
   "index": 4,
   "description": "Just another good and strong cryptosystem. Please, decrypt the flag.",

@@ -6,7 +6,7 @@
   "points": 1,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 13,
+  "numberOfSolutions": 16,
   "isCompletedByUser": false,
   "index": 10,
   "description": "We have launched our HTML Preview tool, designed to meet the highest standards of German security.\n\nHint: It’s not a 0day, but maybe an n-day exploit? Have you thought about why we’re using custom elements (lit-*) with template expression support?",

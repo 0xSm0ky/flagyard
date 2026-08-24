@@ -6,7 +6,7 @@
   "points": 250,
   "difficulty": "medium",
   "status": "active",
-  "numberOfSolutions": 194,
+  "numberOfSolutions": 230,
   "isCompletedByUser": false,
   "index": 5,
   "description": "it's just verifiable delay.",
@@ -31,6 +31,7 @@
   "currentSubmissionPoints": 250,
   "files": 4,
   "flagCandidate": "FlagY{Wesolowski's_VDF_is_less_secure_in_Fiat-Shamir!}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{Wesolowski's_VDF_is_less_secure_in_Fiat-Shamir!}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{Wesolowski's_VDF_is_less_secure_in_Fiat-Shamir!}",
+  "solved": true
 }

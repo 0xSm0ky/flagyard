@@ -6,7 +6,7 @@
   "points": 120,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 395,
+  "numberOfSolutions": 469,
   "isCompletedByUser": false,
   "index": 17,
   "description": "Don't worry about cutting meat, Butcher will do it!",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 120,
   "files": 0,
   "flagCandidate": "FlagY{2423516b2496f714b50b25a90e2bcbe4}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{2423516b2496f714b50b25a90e2bcbe4}"
+  "workStatus": "🔴 flag rejected",
+  "flag": "FlagY{2423516b2496f714b50b25a90e2bcbe4}",
+  "solved": false
 }

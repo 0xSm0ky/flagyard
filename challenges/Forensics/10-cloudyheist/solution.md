@@ -22,10 +22,8 @@ _(none / spun up on demand)_
 
 ## Flag
 
-## Flag (candidate, pending live submission)
+## Flag
 
 `FlagY{3cf525d39011cc990f48048870bce142}`
 
-_Source: b0f.ru writeup — computed/printed, no accept statement on their page._
-
-_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 14 400bc9dd-82f2-4e3a-bf15-66bea9a0996a "FlagY{3cf525d39011cc990f48048870bce142}"` once a fresh token is in place, then `python solve.py mark "challenges\Forensics\10-cloudyheist" "FlagY{3cf525d39011cc990f48048870bce142}"`._
+_Source: b0f.ru writeup - computed/printed, no accept statement on their page. - independently cross-checked, then live-submitted and ACCEPTED by FlagYard this session._

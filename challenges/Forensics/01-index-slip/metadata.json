@@ -6,7 +6,7 @@
   "points": 120,
   "difficulty": "easy",
   "status": "active",
-  "numberOfSolutions": 74,
+  "numberOfSolutions": 211,
   "isCompletedByUser": false,
   "index": 1,
   "description": "I remember opening a file containing all of my important stuff, now I don't even remember its name.\n\nFlag format: FlagY{md5(filename_without_extension)}",

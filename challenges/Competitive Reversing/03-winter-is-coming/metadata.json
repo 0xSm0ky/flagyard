@@ -6,7 +6,7 @@
   "points": 300,
   "difficulty": "hard",
   "status": "active",
-  "numberOfSolutions": 101,
+  "numberOfSolutions": 123,
   "isCompletedByUser": false,
   "index": 3,
   "description": "Get ready, winter is coming",
@@ -29,6 +29,7 @@
   "currentSubmissionPoints": 300,
   "files": 1,
   "flagCandidate": "FlagY{b5187dbe8b63fa270345bb1c4936d53c}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{b5187dbe8b63fa270345bb1c4936d53c}"
+  "workStatus": "✅ solved",
+  "flag": "FlagY{b5187dbe8b63fa270345bb1c4936d53c}",
+  "solved": true
 }

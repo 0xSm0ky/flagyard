@@ -6,7 +6,7 @@
   "points": 400,
   "difficulty": "insane",
   "status": "active",
-  "numberOfSolutions": 95,
+  "numberOfSolutions": 143,
   "isCompletedByUser": false,
   "index": 13,
   "description": "Welcome to our E-commerce website, I wish you enjoy the journey. \n- First Man Standing",
@@ -27,6 +27,7 @@
   "currentSubmissionPoints": 400,
   "files": 0,
   "flagCandidate": "FlagY{feb1aa7624965b3da93a495d185c5715}",
-  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
-  "flag": "FlagY{feb1aa7624965b3da93a495d185c5715}"
+  "workStatus": "🔴 flag rejected",
+  "flag": "FlagY{feb1aa7624965b3da93a495d185c5715}",
+  "solved": false
 }
