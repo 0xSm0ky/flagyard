@@ -30,6 +30,7 @@
   "currentSubmissionPoints": 300,
   "files": 2,
   "solved": false,
-  "flag": "",
-  "workStatus": "🟡 deferred (needs interpreter bug, description hash confirmed a red herring)"
+  "flag": "FlagY{Lua_backd00r_1s_co0l3r_:)}",
+  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
+  "flagCandidate": "FlagY{Lua_backd00r_1s_co0l3r_:)}"
 }

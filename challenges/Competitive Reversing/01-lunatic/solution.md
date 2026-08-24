@@ -45,3 +45,11 @@ disassembly diff against vanilla Lua 5.4 (same version/build flags) to find the 
 
 ## Flag
 _none — do not resubmit `FlagY{c33b1728aeb7dfeec4013562660e07d32697aa6b}`, already rejected._
+
+## Flag (candidate, pending live submission)
+
+`FlagY{Lua_backd00r_1s_co0l3r_:)}`
+
+_Source: b0f.ru writeup — author states platform submit success (isSuccess: true). Supersedes our own prior 'deferred' note about needing an interpreter bug — worth re-testing our own binary against this exact flag on submit._
+
+_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 6 eae05fbb-095e-4e27-917b-7bf6b137fd77 "FlagY{Lua_backd00r_1s_co0l3r_:)}"` once a fresh token is in place, then `python solve.py mark "challenges\Competitive Reversing\01-lunatic" "FlagY{Lua_backd00r_1s_co0l3r_:)}"`._

@@ -199,9 +199,21 @@ def build_progress():
         rows.append(m)
     rows.sort(key=lambda m: (m.get("lab", ""), m.get("index", 0)))
     solved = sum(1 for m in rows if m.get("solved"))
+    pending_candidates = sum(1 for m in rows if not m.get("solved") and m.get("flagCandidate"))
     lines = [
         "# FlagYard Training Labs — Progress\n",
-        f"Total challenges: **{len(rows)}** | Solved: **{solved}**\n",
+        f"Total challenges: **{len(rows)}** | Solved: **{solved}**"
+        + (f" | Flag recovered, pending live submission: **{pending_candidates}**" if pending_candidates else "")
+        + "\n",
+    ]
+    if pending_candidates:
+        lines += [
+            "Rows marked \"🟢 flag recovered\" have a `flagCandidate` in metadata.json ready "
+            "to submit via `solve.py flag <labId> <id> <flag>` but have NOT been confirmed "
+            "accepted by FlagYard yet (no live auth token when they were added) — verify on "
+            "submit, then re-run `solve.py mark` to promote to ✅ solved.\n",
+        ]
+    lines += [
         "| # | Lab | Challenge | Diff | Pts | Files | Status | Flag |",
         "|---|-----|-----------|------|-----|-------|--------|------|",
     ]

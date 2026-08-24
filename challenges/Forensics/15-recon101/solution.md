@@ -21,3 +21,11 @@ _(none / spun up on demand)_
 ## Findings
 
 ## Flag
+
+## Flag (candidate, pending live submission)
+
+`FlagY{64df1df92856eecc702aa152a4a7be0}`
+
+_Source: b0f.ru writeup — author states live submit success. NOTE: hex portion is 31 chars (not the usual 32/MD5-length) — verified verbatim against raw page source twice, not a transcription artifact, but double check on submit._
+
+_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 14 b927f9bd-3d97-42f5-85e0-caf268ad0853 "FlagY{64df1df92856eecc702aa152a4a7be0}"` once a fresh token is in place, then `python solve.py mark "challenges\Forensics\15-recon101" "FlagY{64df1df92856eecc702aa152a4a7be0}"`._

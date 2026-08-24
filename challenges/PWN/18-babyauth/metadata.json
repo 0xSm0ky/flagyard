@@ -1,0 +1,13 @@
+{
+  "id": "",
+  "labId": 5,
+  "lab": "PWN",
+  "name": "babyauth",
+  "points": "?",
+  "difficulty": "?",
+  "status": "unconfirmed",
+  "index": 18,
+  "workStatus": "🆕 discovered via external writeup, not yet pulled from API (needs auth)",
+  "_discoverySource": "0xasta.me/writeups/flagyard-babyauth/ — pwn, type-size mismatch causing stack corruption / auth bypass. Not present anywhere in our previously-scraped catalog.",
+  "files": 0
+}

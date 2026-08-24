@@ -29,5 +29,8 @@
   "className": "Challenge",
   "nextSubmissionPoints": 250,
   "currentSubmissionPoints": 250,
-  "files": 4
+  "files": 4,
+  "flagCandidate": "FlagY{Wesolowski's_VDF_is_less_secure_in_Fiat-Shamir!}",
+  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
+  "flag": "FlagY{Wesolowski's_VDF_is_less_secure_in_Fiat-Shamir!}"
 }

@@ -26,5 +26,8 @@
   "className": "Challenge",
   "nextSubmissionPoints": 200,
   "currentSubmissionPoints": 200,
-  "files": 1
+  "files": 1,
+  "flagCandidate": "FlagY{m33t_1n_th3_m1ddl3_0r_d1ff3r3n714l?}",
+  "workStatus": "🟢 flag recovered (pending live submission, no auth token)",
+  "flag": "FlagY{m33t_1n_th3_m1ddl3_0r_d1ff3r3n714l?}"
 }

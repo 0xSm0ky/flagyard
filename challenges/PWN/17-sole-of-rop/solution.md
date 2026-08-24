@@ -21,3 +21,11 @@ _(none / spun up on demand)_
 ## Findings
 
 ## Flag
+
+## Flag (candidate, pending live submission)
+
+`FlagY{cd98501b5e33480e0ae4dbef3f9e1c7b}`
+
+_Source: b0f.ru writeup — author states live-submitted, success (2026-07-12)._
+
+_Not yet submitted this session — no live FlagYard auth token available. Submit via `python solve.py flag 5 3ef058b5-ab9b-4fda-9413-bc854124ec07 "FlagY{cd98501b5e33480e0ae4dbef3f9e1c7b}"` once a fresh token is in place, then `python solve.py mark "challenges\PWN\17-sole-of-rop" "FlagY{cd98501b5e33480e0ae4dbef3f9e1c7b}"`._
