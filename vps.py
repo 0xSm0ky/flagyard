@@ -9,8 +9,8 @@ import sys
 
 import paramiko
 
-_SP = (r"C:\Users\hamza\AppData\Local\Temp\claude\d--flagyard-com"
-       r"\fe16e5c0-4765-4581-8474-a336da997ff7\scratchpad")
+_SP = os.environ.get("FY_SCRATCH",
+       os.path.join(os.path.dirname(os.path.abspath(__file__)), "session"))
 
 
 def _creds():

@@ -16,8 +16,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
 _SP = os.environ.get("FY_SCRATCH",
-       r"C:\Users\hamza\AppData\Local\Temp\claude\d--flagyard-com"
-       r"\fe16e5c0-4765-4581-8474-a336da997ff7\scratchpad")
+       os.path.join(os.path.dirname(os.path.abspath(__file__)), "session"))
 TOKEN_FILE = os.environ.get("FY_TOKEN_FILE", os.path.join(_SP, "token.txt"))
 REFRESH_FILE = os.path.join(_SP, "refresh.txt")
 KC_FILE = os.path.join(_SP, "kc.json")
