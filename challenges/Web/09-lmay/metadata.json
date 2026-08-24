@@ -26,8 +26,8 @@
   "nextSubmissionPoints": 120,
   "currentSubmissionPoints": 120,
   "files": 0,
-  "flagCandidate": "FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}",
   "workStatus": "🔴 flag rejected",
   "flag": "FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}",
-  "solved": false
+  "solved": false,
+  "triedFlag": "FlagY{9741a0c3d6bae6e9e87dd0fd2d31089c}"
 }

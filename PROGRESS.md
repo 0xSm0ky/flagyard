@@ -1,8 +1,6 @@
 # FlagYard Training Labs - Progress
 
-Total challenges: **165** | Solved: **64** | Flag recovered, pending live submission: **13**
-
-Rows marked "🟢 flag recovered" have a `flagCandidate` in metadata.json ready to submit via `solve.py flag <labId> <id> <flag>` but have NOT been confirmed accepted by FlagYard yet (no live auth token when they were added) - verify on submit, then re-run `solve.py mark` to promote to ✅ solved.
+Total challenges: **165** | Solved: **64**
 
 | # | Lab | Challenge | Diff | Pts | Files | Status | Flag |
 |---|-----|-----------|------|-----|-------|--------|------|
